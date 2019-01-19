@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/dstpierre/react-trix",
   "dependencies": {
-    "trix": "^0.11.1"
+    "trix": "^1.0.0"
   },
   "devDependencies": {
     "@types/chai": "^3.5.2",
